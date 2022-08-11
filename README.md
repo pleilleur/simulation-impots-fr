@@ -7,8 +7,8 @@ Les calculs sont effectués dans l'ordre suivant
 
 1) Déduction/Abattement de 10%
 2) Prise en compte des versements sur PER
-3) Application des parts
-4) Déduction de la CSG
+3) Déduction de la CSG
+4) Application des parts
 5) Calcul de l'imposition au barème IR avec le détail de chaque tranche
 6) Décote
 7) Déduction de la réduction d'impôts nette globale
