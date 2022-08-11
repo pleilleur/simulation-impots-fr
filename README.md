@@ -15,7 +15,7 @@ Les calculs sont effectués dans l'ordre suivant
 8) Ajout des avances de crédit d'impôts
 9) Déduction des avances (prélèvement à la source)
 
-J'ai également couvert le cas des plus-values mobilières et du revenu exceptionel (0XX). 
+J'ai également couvert le cas des plus-values mobilières ou du revenu exceptionel (0XX). 
 
 10) Application de la plus value au barème IR
 11) Application de la plus value au PFU
