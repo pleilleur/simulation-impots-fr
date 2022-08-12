@@ -27,3 +27,11 @@ J'ai également couvert le cas des plus-values mobilières ou du revenu exceptio
 Il vous appartient de vérifier les règles en vigueur lors de votre déclaration, ce fichier vous permet de faire une simulation qui doit être confirmée par vos soins. Le résultat que vous obtiendrez n'est là qu'a titre informatif.
 
 L'utilisation de ce fichier implique que vous connaissiez un minimum les sections concernées. Même si j'ai essayé de mettre des commentaires explicites, je ne peux pas couvrir les explications complètes de toutes les sections. 
+
+# Versions
+
+2022-08-12 - v4
+
+- Correction du calcul de la CSG déductible de N-1
+- Ajout du calcul de la CSG déductible des les plus-values pour N+1
+
