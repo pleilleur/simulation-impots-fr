@@ -7,7 +7,7 @@ Les calculs sont effectués dans l'ordre suivant
 
 1) Déduction/Abattement de 10%
 2) Prise en compte des versements sur PER
-3) Déduction de la CSG
+3) Application de la CSG déductible de N-1
 4) Application des parts
 5) Calcul de l'imposition au barème IR avec le détail de chaque tranche
 6) Décote
@@ -20,7 +20,7 @@ J'ai également couvert le cas des plus-values mobilières ou du revenu exceptio
 10) Application de la plus value au barème IR
 11) Application de la plus value au PFU
 12) Application d'un revenu exceptionnel, calcul au quotient
-
+13) Calcul de la CSG déductible des plus-values pour N+1 
 
 # Responsabilité
 
