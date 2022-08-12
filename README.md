@@ -33,5 +33,5 @@ L'utilisation de ce fichier implique que vous connaissiez un minimum les section
 2022-08-12 - v4
 
 - Correction du calcul de la CSG déductible de N-1
-- Ajout du calcul de la CSG déductible des les plus-values pour N+1
+- Ajout du calcul de la CSG déductible des plus-values pour application en N+1
 
